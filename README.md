@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Janindu Kulathilaka</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
-
+<img src="https://wallpaperaccess.com/full/2471314.gif" width="300px" height="auto" position="absolute" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janindu-kulathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="janindu-kulathilaka" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@janidukulathil1" target="blank"><img src="https://img.shields.io/twitter/follow/@janidukulathil1?logo=twitter&style=for-the-badge" alt="@janidukulathil1" /></a> </p>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Material UI, Advanced React**
 
-<img src="https://wallpaperaccess.com/full/2471314.gif" width="300px" height="auto" position="absolute" align="right">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@janidukulathil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@janidukulathil1" height="30" width="40" /></a>
