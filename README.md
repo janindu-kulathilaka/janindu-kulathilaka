@@ -1,7 +1,7 @@
 
 <img src="https://im4.ezgif.com/tmp/ezgif-4-4acfff11cf.gif" alt="Your Image">
 <h1 align="center">Hi 👋, I'm Janindu Kulathilaka</h1>
-<h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate UI/UX Designer and Full-Stack Developer from Sri Lanka</h3>
 
 <img align="right" src="https://raw.githubusercontent.com/Aoihara/Aoihara/master/git.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janindu-kulathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="janindu-kulathilaka" /> </p>
@@ -44,8 +44,6 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janindu-kulathilaka&show_icons=true&locale=en" alt="janindu-kulathilaka" /></p>
