@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@janidukulathil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@janidukulathil1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/janindu kulathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janindu kulathilaka" height="30" width="40" /></a>
-<a href="https://fb.com/janidu sandeepa kulathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janidu sandeepa kulathilaka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janindu-kulathilaka-240823213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janindu-kulathilaka-240823213" height="30" width="40" /></a>
+<a href="https://fb.com/janidusandeepa.kulathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janidusandeepa.kulathilaka" height="30" width="40" /></a>
 <a href="https://instagram.com/janidu_sandeepa_kulathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janidu_sandeepa_kulathilaka" height="30" width="40" /></a>
 <a href="https://discord.gg/HoundSL#9334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HoundSL#9334" height="30" width="40" /></a>
 </p>
