@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Material UI, Advanced React**
 
-<p align="right"> <img src="https://wallpaperaccess.com/full/2471314.gif" width="300px" height="auto" position="absolute"></p>
+<img src="https://wallpaperaccess.com/full/2471314.gif" width="300px" height="auto" position="absolute" align="right">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@janidukulathil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@janidukulathil1" height="30" width="40" /></a>
@@ -48,7 +48,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=janindu-kulathilaka&show_icons=true&locale=en" alt="janindu-kulathilaka" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janindu-kulathilaka&show_icons=true&locale=en" alt="janindu-kulathilaka" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=janindu-kulathilaka&" alt="janindu-kulathilaka" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janindu-kulathilaka&show_icons=true&locale=en&layout=compact" alt="janindu-kulathilaka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janindu-kulathilaka&" alt="janindu-kulathilaka" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janindu-kulathilaka&show_icons=true&locale=en&layout=compact" alt="janindu-kulathilaka" /></p>
