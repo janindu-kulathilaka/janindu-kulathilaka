@@ -1,4 +1,4 @@
-<img src="../files/main.gif" alt="Your Image">
+<img src="./files/main.gif" alt="Your Image">
 <h1 align="center">Hi 👋, I'm Janindu Kulathilaka</h1>
 <h3 align="center">A passionate UI/UX Designer and Full-Stack Developer from Sri Lanka</h3>
 
@@ -43,7 +43,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janindu-kulathilaka&show_icons=true&locale=en" alt="janindu-kulathilaka" /></p>
-<img align="right" src="../files/bottom.gif" width="300px">
+<img align="right" src="./files/bottom.gif" width="300px">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janindu-kulathilaka&" alt="janindu-kulathilaka" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janindu-kulathilaka&show_icons=true&locale=en&layout=compact" alt="janindu-kulathilaka" /></p>
