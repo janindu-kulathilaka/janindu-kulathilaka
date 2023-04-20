@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Janindu Kulathilaka</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
+<img align="right" src="https://raw.githubusercontent.com/Aoihara/Aoihara/master/git.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janindu-kulathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="janindu-kulathilaka" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@janidukulathil1" target="blank"><img src="https://img.shields.io/twitter/follow/@janidukulathil1?logo=twitter&style=for-the-badge" alt="@janidukulathil1" /></a> </p>
@@ -48,6 +49,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janindu-kulathilaka&show_icons=true&locale=en" alt="janindu-kulathilaka" /></p>
+<img align="right" src="https://im.ezgif.com/tmp/ezgif-1-0d3a67f3c9.gif" width="300px">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janindu-kulathilaka&" alt="janindu-kulathilaka" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janindu-kulathilaka&show_icons=true&locale=en&layout=compact" alt="janindu-kulathilaka" /></p>
