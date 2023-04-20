@@ -1,5 +1,5 @@
 
-![Alt Text](https://user-images.githubusercontent.com/86515184/233390994-9e27cad8-5ca6-4f8f-bebe-ffbe347258e2.png)
+![Alt Text](https://pin.it/6Qv2RYg)
 <h1 align="center">Hi 👋, I'm Janindu Kulathilaka</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
