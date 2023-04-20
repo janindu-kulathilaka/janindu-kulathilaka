@@ -1,6 +1,5 @@
-<div class="container" style="height: "200px", width: "200px", overflow: "hidden">
-      <img src="https://wallpaperaccess.com/full/5927911.gif" alt="Your Image" style=" position: "relative", top: "-50px", left: "-50px", clip: react(50px, 150px, 150px, 50px) >
-    </div>
+
+<img src="https://wallpaperaccess.com/full/5927911.gif" alt="Your Image" >
 <h1 align="center">Hi 👋, I'm Janindu Kulathilaka</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
