@@ -1,5 +1,4 @@
-
-<img src="https://im4.ezgif.com/tmp/ezgif-4-4acfff11cf.gif" alt="Your Image">
+<img src="../files/main.gif" alt="Your Image">
 <h1 align="center">Hi 👋, I'm Janindu Kulathilaka</h1>
 <h3 align="center">A passionate UI/UX Designer and Full-Stack Developer from Sri Lanka</h3>
 
@@ -8,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@janidukulathil1" target="blank"><img src="https://img.shields.io/twitter/follow/@janidukulathil1?logo=twitter&style=for-the-badge" alt="@janidukulathil1" /></a> </p>
 
-
 - 🔭 I’m currently working on [Wasana-Bakers-Bombuwala-Web-Application](https://github.com/GenZ-DevLabs/wasana-bakers-bombuwala-web-application)
 
 - 🌱 I’m currently learning **Material UI, Advanced React**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,9 +42,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janindu-kulathilaka&show_icons=true&locale=en" alt="janindu-kulathilaka" /></p>
-<img align="right" src="https://im.ezgif.com/tmp/ezgif-1-0d3a67f3c9.gif" width="300px">
+<img align="right" src="../files/bottom.gif" width="300px">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janindu-kulathilaka&" alt="janindu-kulathilaka" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janindu-kulathilaka&show_icons=true&locale=en&layout=compact" alt="janindu-kulathilaka" /></p>
