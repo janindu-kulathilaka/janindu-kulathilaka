@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Material UI, Advanced React**
 
-<p align="right"> <img src="https://wallpaperaccess.com/full/2471314.gif" width="300px" height="auto" display="flex"></p>
+<p align="right"> <img src="https://wallpaperaccess.com/full/2471314.gif" width="300px" height="auto" position="relative"></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@janidukulathil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@janidukulathil1" height="30" width="40" /></a>
