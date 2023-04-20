@@ -1,4 +1,4 @@
-![Alt Text](link-to-your-gif-file)
+![Alt Text]([link-to-your-gif-file](https://drive.google.com/file/d/1iBUpMgiuB8-KhJKqtPLKy1tma5uHP13e/view?usp=share_link))
 <h1 align="center">Hi 👋, I'm Janindu Kulathilaka</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
