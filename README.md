@@ -1,5 +1,5 @@
 
-![Alt Text](https://pin.it/6Qv2RYg)
+![Alt Text]("https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105")
 <h1 align="center">Hi 👋, I'm Janindu Kulathilaka</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
