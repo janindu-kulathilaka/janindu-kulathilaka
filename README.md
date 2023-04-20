@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Janindu Kulathilaka</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-7ce6a8408c.gif" width="350px" height="auto" position="absolute" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janindu-kulathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="janindu-kulathilaka" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@janidukulathil1" target="blank"><img src="https://img.shields.io/twitter/follow/@janidukulathil1?logo=twitter&style=for-the-badge" alt="@janidukulathil1" /></a> </p>
