@@ -1,5 +1,5 @@
 
-<img src="https://wallpaperaccess.com/full/5927911.gif" alt="Your Image" >
+<img src="https://im4.ezgif.com/tmp/ezgif-4-71df0e7324.gif" alt="Your Image" >
 <h1 align="center">Hi 👋, I'm Janindu Kulathilaka</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
