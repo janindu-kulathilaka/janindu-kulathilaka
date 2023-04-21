@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/@janidukulathil1" target="blank"><img src="https://img.shields.io/twitter/follow/@janidukulathil1?logo=twitter&style=for-the-badge" alt="@janidukulathil1" /></a> </p>
 
+- 👨‍🎓 I’m undergraduate computer science student at [University of Colombo School of Computing](https://ucsc.cmb.ac.lk/).
+
 - 🔭 I’m currently working on [Wasana-Bakers-Bombuwala-Web-Application](https://github.com/GenZ-DevLabs/wasana-bakers-bombuwala-web-application)
 
 - 🌱 I’m currently learning **Material UI, Advanced React**
 
-- 🔗 This is our company website www.genzdevlabs.com
+- 🔗 This is our company www.genzdevlabs.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
