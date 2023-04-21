@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Janindu Kulathilaka</h1>
 <h3 align="center">A passionate UI/UX Designer and Full-Stack Developer from Sri Lanka</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/Aoihara/Aoihara/master/git.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janindu-kulathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="janindu-kulathilaka" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@janidukulathil1" target="blank"><img src="https://img.shields.io/twitter/follow/@janidukulathil1?logo=twitter&style=for-the-badge" alt="@janidukulathil1" /></a> </p>
@@ -10,6 +10,8 @@
 - 👨‍🎓 I’m undergraduate computer science student at [University of Colombo School of Computing](https://ucsc.cmb.ac.lk/).
 
 - 🔭 I’m currently working on [Wasana-Bakers-Bombuwala-Web-Application](https://github.com/GenZ-DevLabs/wasana-bakers-bombuwala-web-application)
+
+<img align="right" src="https://raw.githubusercontent.com/Aoihara/Aoihara/master/git.gif">
 
 - 🌱 I’m currently learning **Material UI, Advanced React**
 
