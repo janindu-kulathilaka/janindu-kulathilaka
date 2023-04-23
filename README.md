@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Material UI, Advanced React**
 
-- 🔗 This is our company [GenZ DevLabs](www.genzdevlabs.com).
+- 🔗 This is our company [GenZ DevLabs](https://www.genzdevlabs.com/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
