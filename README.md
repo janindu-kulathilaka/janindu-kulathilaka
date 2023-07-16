@@ -10,8 +10,6 @@
 
 - 👨‍🎓 I’m undergraduate computer science student at [University of Colombo School of Computing](https://ucsc.cmb.ac.lk/).
 
-- 🔭 I’m currently working on [Wasana-Bakers-Bombuwala-Web-Application](https://github.com/GenZ-DevLabs/wasana-bakers-bombuwala-web-application)
-
 - 🌱 I’m currently learning **Material UI, Advanced React**
 
 - 🔗 This is our company [GenZ DevLabs](https://www.genzdevlabs.com/).
