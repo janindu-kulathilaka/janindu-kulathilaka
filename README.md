@@ -10,7 +10,7 @@
 
 - 👨‍🎓 I’m undergraduate computer science student at [University of Colombo School of Computing](https://ucsc.cmb.ac.lk/).
 
-- 🌱 I’m currently learning **Material UI, Advanced React**
+- 🌱 I’m currently learning **React Native**
 
 - 🔗 This is our company [GenZ DevLabs](https://www.genzdevlabs.com/).
 
