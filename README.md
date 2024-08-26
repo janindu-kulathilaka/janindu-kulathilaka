@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 🔗 This is my website [Janindu Kulathilaka](https://janindu-kulathilaka.vercel.app/).
+- 🔗 This is my website [Janindu Kulathilaka](https://www.itsjanindu.me/).
 
 - 🔗 This is our company [GenZ DevLabs](https://www.genzdevlabs.com/).
 
